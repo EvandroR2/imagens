@@ -1,0 +1,6 @@
+mira = total de venda
+casa = total de lojas
+relogio = ultima hora atualizada
+carrinho de compra = total de vendas
+cabide = total de estoque
+grafico = markup medio

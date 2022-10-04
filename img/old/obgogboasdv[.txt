@@ -1,0 +1,13 @@
+agenda ad de nuvem
+agenda desinstalacao
+agenda instalacao de board
+agenda instalacao de loja faturada
+agenda instalacao de loja nao faturada
+agenda instalacao de tef
+agenda instalacao ecommerce
+agenda pre-instalacao
+agenda reinstalacao
+agenda instalacao retaguarda
+agenda configuracao de nfce
+agenda configuracao de sat
+agenda configuracao de rede
